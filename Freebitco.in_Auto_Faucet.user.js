@@ -2,8 +2,7 @@
 // @name         Freebitco.in Auto Faucet
 // @github       http://github.com/Topherick
 // @version      1.0
-// @description  feel free to donate: 1P7EX7yddNhUVzXZ8FqHVpGqv2CtoKcUxm
-// @author       Topherick
+// @description  feel free to donate:0xf4288aDAB68f3Fda577dcA81DA9B457538ddece3 / @author       Topherick
 // @match        https://freebitco.in/*
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
